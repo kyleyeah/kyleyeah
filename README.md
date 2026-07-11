@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @kyle_reclaim
-- 👀 I’m interested in Web Dev, Game Dev, and CyberSecurity
-- 🌱 I’m currently learning JavaScript and Python 3
+AmDev
